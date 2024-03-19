@@ -1,6 +1,6 @@
 # SQL-Tableau-Integration-Project
 
-/*Select the information from the “dept_no” column of the “departments” table.*/
+Select the information from the “dept_no” column of the “departments” table.
 SELECT dept_no
 FROM departments;
 
